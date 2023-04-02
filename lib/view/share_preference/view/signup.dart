@@ -91,7 +91,7 @@ class _SignUpState extends State<SignUp> {
                     width: double.infinity,
                     child: Center(
                       child: Text(
-                        'Login',
+                        'Sing Up',
                         style: TextStyle(fontSize: 26),
                       ),
                     ),
